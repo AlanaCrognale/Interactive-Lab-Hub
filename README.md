@@ -9,4 +9,4 @@ Completed Labs for Alana Crognale.
 Completed Prelabs for Alana Crognale.
 1. Prelab 1 (N/A)
 2. [Prelab 2](https://github.com/AlanaCrognale/Prelab-2)
-3. [Prelab 3] (https://github.com/AlanaCrognale/Prelab-3)
+3. [Prelab 3](https://github.com/AlanaCrognale/Prelab-3)
