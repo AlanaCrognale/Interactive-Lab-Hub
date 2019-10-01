@@ -6,6 +6,7 @@ Completed Labs for Alana Crognale.
 2. [Lab 2](https://github.com/AlanaCrognale/IDD-Fa19-Lab2)
 3. [Lab 3](https://github.com/AlanaCrognale/IDD-Fa19-Lab3)
 4. [Lab 4](https://github.com/AlanaCrognale/IDD-Fa19-Lab4)
+5. [Lab 5](https://github.com/AlanaCrognale/Lab-5)
 
 Completed Prelabs for Alana Crognale.
 1. Prelab 1 (N/A)
